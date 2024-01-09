@@ -55,14 +55,14 @@ Stop Time 12/29/2023, 10:47:13 PM
 
 ## Attack Maps Before Hardening / Security Controls
 
-```Most map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```
+```Most map queries actually returned no results due to no instances of malicious activity for the 24 hour period after hardening.```<br>
+
 ![NSG Allowed Inbound Malicious Flows](https://i.imgur.com/SkWyEm0.jpg)<br>
 ![Linux Syslog Auth Failures](https://i.imgur.com/sfvEMws.jpg)<br>
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/pokwdxE.jpg)<br>
 ![MSSQL Authorization Failures](https://i.imgur.com/p645cVd.jpg)<br>
 ![Incidents Reported](https://i.imgur.com/BzWIB7b.jpg)<br>
 ![Security Score](https://i.imgur.com/PYVV5kK.jpg)<br>
-
 
 ## Metrics After Hardening / Security Controls
 
